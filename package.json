@@ -1,0 +1,17 @@
+{
+  "name": "collapsio",
+  "version": "1.0.0",
+  "description": "Collapse/Coalese multiple async calls into one to reduce load and bottle necks in an application",
+  "main": "collapsio.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "devDependencies": {
+    "mocha": "2.2.4"
+  },
+  "author": ["Raadad Elsleiman"],
+  "license": "MIT"
+}
